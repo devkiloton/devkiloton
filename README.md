@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Find me around at 🌎
  
-- [linkedin.com/in/yarego-brozek-9186a120a](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
+- [linkedin.com/yarego-brozek](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
  
 ### Contact me with ✉️
  
