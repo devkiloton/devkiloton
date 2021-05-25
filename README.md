@@ -4,7 +4,7 @@
 
 <samp>
 
-### Hi, I'm Yarego "devkiloton" Brozek 👋
+### Hi, I'm Yarego "kiloton" Brozek 👋
 
 <!--
 **HenriqueMorato/HenriqueMorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
