@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - 💻 Developing softwares with C# and C++ at my home
-- 🏫 Telecommunication Enginering - UNICAMP
+- 🏫 Telecommunication Engineering - UNICAMP
 - 🏆 Disputing Programing Competitions
 - ♾️ Doing DevOps
 - 📚 Learning
