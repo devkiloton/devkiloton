@@ -25,13 +25,15 @@ Here are some ideas to get you started:
 - 💻 Developing softwares with C# and C++ at my home
 - 🏫 Telecommunication Engineering - UNICAMP
 - 🏆 Disputing Programing Competitions
-- ♾️ Doing DevOps
+- ☁️ Cloud computing
 - 📚 Learning
+- ➕ And a lot of another things
   
 
-### Find me around at 🌎
+### Find me around 🌎 at
  
-- [linkedin.com/yarego-brozek](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
+- [linkedin](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
+- [Instagram](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
  
 ### Contact me with ✉️
  
