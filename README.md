@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 
 - 💻 Developing softwares with C# and C++ at my home
-- 🏫 Telecommunication Engineering - UNICAMP
-- 🏆 Disputing Programing Competitions
+- 🏫 Studying Telecommunication Engineering at UNICAMP
+- 🏆 Disputing Programming Competitions
 - ☁️ Cloud computing
 - 📚 Learning
 - ➕ And a lot of another things
@@ -38,5 +38,7 @@ Here are some ideas to get you started:
 ### Contact me with ✉️
  
 - devkiloton@gmail.com
+ 
+#### Talk is cheap. Show me the code – Linus Torvalds.
 
 </samp>
