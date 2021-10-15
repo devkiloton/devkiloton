@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 💻 Developing softwares with C# and C++ at my home
+- 💻 Developing solutions in the shape of software at my home
 - 🏫 Studying Telecommunication Engineering at UNICAMP
 - 🏆 Disputing Programming Competitions
-- ☁️ Cloud computing
+- ☁️ Using cloud computing
 - 📚 Learning
 - ➕ And a lot of another things
   
