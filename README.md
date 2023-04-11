@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ➕ And a lot of another things
   
 
-### Find me around 🌎 at
+### Find me around the 🌎 at
  
 - [linkedin](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
 - [Instagram](https://www.linkedin.com/in/yarego-brozek-9186a120a/)
