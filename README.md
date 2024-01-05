@@ -7,13 +7,12 @@
 ### Hi, I'm Yarego "kiloton" Brozek 👋
 
 - 🧠 Creator of [Invetu](https://invetu.com/) and [Main Chainz](https://mainchainz.com/en-US/home)
-- 🔭 I’m currently working on web development & mobile
+- 🔭 I’m currently working on web & mobile development
 - 👯 I’m looking to collaborate on projects involving finances and/or decentralized protocols
 - 💬 Ask me about Angular, Bitcoin, authentication and whatever you find in my apps/recent repos
 - 📫 How to reach me: brozek.yarego@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
-  
+- 👽 Fun fact: Stack Overflow > ChatGPT
 
 ### Find me around the 🌎 at
 
