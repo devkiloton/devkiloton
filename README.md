@@ -6,7 +6,7 @@
 
 ### Hi, I'm Yarego "kiloton" Brozek 👋
 
-- 🧠 Creator of [Invetu](https://invetu.com/) and [Main Chainz](https://mainchainz.com/en-US/home)
+- 🧠 Creator of [Invetu](https://invetu.com/), [Main Chainz](https://mainchainz.com/en-US/home) and [Xarlat](https://play.google.com/store/apps/details?id=com.kiloton.xarlat&pli=1)
 - 🔭 I’m currently working on web & mobile development
 - 👯 I’m looking to collaborate on projects involving finances and/or decentralized protocols
 - 💬 Ask me about Angular, Bitcoin, authentication and whatever you find in my apps/recent repos
